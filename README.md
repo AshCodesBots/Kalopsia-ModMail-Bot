@@ -1,3 +1,5 @@
+![Kalopsia ModMail Bot](https://user-images.githubusercontent.com/79590499/117823913-9d0ceb80-b28b-11eb-825f-41ea6b0b981f.png)
+
 [![Run on Repl.it](https://replit.com/badge/github/Monochromish/Kalopsia-ModMail-Bot)](https://repl.it/github/Monchromish/Kalopsia-ModMail-Bot)
 
 # Kalopsia-Bot 📨
