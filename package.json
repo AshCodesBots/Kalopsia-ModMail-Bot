@@ -1,0 +1,15 @@
+{
+  "name": "kalopsiamodmailbot",
+  "version": "1.0.0",
+  "description": "Kalopsia ModMail Bot is an Open-Source Discord ModMail Bot written in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Monochromish",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-pagination": "^1.0.3"
+  }
+}
