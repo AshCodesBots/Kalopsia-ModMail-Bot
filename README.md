@@ -3,7 +3,7 @@
 [![Run on Repl.it](https://replit.com/badge/github/Monochromish/Kalopsia-ModMail-Bot)](https://repl.it/github/Monchromish/Kalopsia-ModMail-Bot)
 
 # Kalopsia-Bot 📨
-Kalopia ModMail Bot is an Open-Source Discord ModMail Bot written in JavaScript
+📨 Kalopia ModMail Bot is an Open-Source Discord ModMail Bot written in JavaScript
 Please Star this Project if you like the bot
 
 ## Commands & Features 🤖
